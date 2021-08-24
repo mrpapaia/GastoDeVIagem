@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora de gastos de viagem</string>
+    <string name="distancia">Distancia</string>
+    <string name="total_distance">Total de Quilometros</string>
+    <string name="preco">Preço</string>
+    <string name="preco_litro">Preço por litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="km_por_litro">KM\'s por litro</string>
+    <string name="total_de_gastro_sera">Total de gastro sera</string>
+    <string name="valor_reais">R$ 0</string>
+    <string name="calcular">Calcular</string>
+</resources>
